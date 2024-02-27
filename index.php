@@ -1,3 +1,3 @@
 <?php 
-echo "cute mo";
+echo "cute ko";
  ?>
